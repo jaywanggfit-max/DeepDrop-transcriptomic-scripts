@@ -1,0 +1,60 @@
+﻿panel,comparison_label,strain,contrast,orthofinder_orthogroup,OG_gene_symbol,logFC,FDR,minus_log10_FDR,is_deg_by_threshold,DEG_direction,module_for_plot,label_for_plot
+c,55 MPa Bulk vs Bulk 0.1 MPa,Aequorivita,B55_vs_B0,OG0000063,ladS,-1.06192030597127,0.0001715563575027,3.76559318330771,True,down,Flagellar / chemotaxis,ladS
+c,55 MPa Bulk vs Bulk 0.1 MPa,Aequorivita,B55_vs_B0,OG0000377,mscL,-2.08394237029172,2.23807568725941e-07,6.650125230585463,True,down,Membrane maintenance,mscL
+c,55 MPa Bulk vs Bulk 0.1 MPa,Aequorivita,B55_vs_B0,OG0000543,dnaN,1.20073076689558,2.00721439749074e-06,5.697406236543807,True,up,Osmoregulation,dnaN
+c,55 MPa Bulk vs Bulk 0.1 MPa,Aequorivita,B55_vs_B0,OG0000227,dnaJ,-2.50172587073161,2.1822004590206e-07,6.661105357208839,True,down,Proteostasis,dnaJ
+c,55 MPa Bulk vs Bulk 0.1 MPa,Aequorivita,B55_vs_B0,OG0000723,atpH,1.78999833175807,2.23807568725941e-07,6.650125230585463,True,up,ROS removal,atpH
+c,55 MPa Bulk vs Bulk 0.1 MPa,Halomonas,B55_vs_B0,OG0001285,fliC,-5.1394356421521,5.885718608636029e-12,11.23020050500193,True,down,Flagellar / chemotaxis,fliC
+c,55 MPa Bulk vs Bulk 0.1 MPa,Halomonas,B55_vs_B0,OG0001872,tctC,-5.51705896341039,4.444507034766339e-11,10.35217640206236,True,down,Membrane maintenance,tctC
+c,55 MPa Bulk vs Bulk 0.1 MPa,Halomonas,B55_vs_B0,OG0000950,proX,-1.63754497936553,1.43763674411717e-06,5.842350835757599,True,down,Osmoregulation,proX
+c,55 MPa Bulk vs Bulk 0.1 MPa,Halomonas,B55_vs_B0,OG0000242,bepA,-1.73555708291453,3.62194045781772e-08,7.441058693462534,True,down,Proteostasis,bepA
+c,55 MPa Bulk vs Bulk 0.1 MPa,Halomonas,B55_vs_B0,OG0002037,zwf,1.83368091354244,1.89349836483802e-07,6.72273506558521,True,up,ROS removal,zwf
+c,55 MPa Bulk vs Bulk 0.1 MPa,Psychrobacter,B55_vs_B0,OG0000432,gspE,-1.037436719413,7.37300152861858e-08,7.132355676056139,True,down,Flagellar / chemotaxis,gspE
+c,55 MPa Bulk vs Bulk 0.1 MPa,Psychrobacter,B55_vs_B0,OG0000201,fabG,-5.40657245878762,5.479147949038939e-11,10.26128697250128,True,down,Membrane maintenance,fabG
+c,55 MPa Bulk vs Bulk 0.1 MPa,Psychrobacter,B55_vs_B0,OG0000565,yliI,-1.86957463192875,9.98557087178763e-10,9.000627101611489,True,down,Osmoregulation,yliI
+c,55 MPa Bulk vs Bulk 0.1 MPa,Psychrobacter,B55_vs_B0,OG0000450,grxC,-3.32651714249525,3.58634013280283e-11,10.44534852381056,True,down,Proteostasis,grxC
+c,55 MPa Bulk vs Bulk 0.1 MPa,Psychrobacter,B55_vs_B0,OG0000365,sodC,-3.0778113984709,3.38593711681863e-10,9.470321111812517,True,down,ROS removal,sodC
+c,55 MPa Bulk vs Bulk 0.1 MPa,Sphingopyxis,B55_vs_B0,OG0001285,fliC,-9.51369986036021,4.17438742026017e-20,19.37940724701154,True,down,Flagellar / chemotaxis,fliC
+c,55 MPa Bulk vs Bulk 0.1 MPa,Sphingopyxis,B55_vs_B0,OG0000130,czcC,3.23837350680592,1.0430149445258e-15,14.98170946887108,True,up,Membrane maintenance,czcC
+c,55 MPa Bulk vs Bulk 0.1 MPa,Sphingopyxis,B55_vs_B0,OG0001537,pdhB,-2.51306152145364,5.01424145338731e-16,15.29979475706528,True,down,Osmoregulation,pdhB
+c,55 MPa Bulk vs Bulk 0.1 MPa,Sphingopyxis,B55_vs_B0,OG0000831,radA,3.97085500751194,1.40986563039388e-16,15.85082227653557,True,up,Proteostasis,radA
+c,55 MPa Bulk vs Bulk 0.1 MPa,Sphingopyxis,B55_vs_B0,OG0000047,phaA,-2.9359641455691,9.7040662022035e-17,16.01304624932681,True,down,ROS removal,phaA
+b,55 MPa Droplet vs 55 MPa Bulk,Aequorivita,D55_vs_B55,OG0001017,yegE,1.7651781457776,7.48943110809394e-05,4.125551169750316,True,up,Flagellar / chemotaxis,yegE
+b,55 MPa Droplet vs 55 MPa Bulk,Aequorivita,D55_vs_B55,OG0001503,TC.FEV.OM,7.71451620483631,5.92289342379492e-09,8.227466081958786,True,up,Membrane maintenance,TC.FEV.OM
+b,55 MPa Droplet vs 55 MPa Bulk,Aequorivita,D55_vs_B55,OG0000865,rpoB,-1.21177653410163,3.23412545566421e-05,4.490243137291117,True,down,Osmoregulation,rpoB
+b,55 MPa Droplet vs 55 MPa Bulk,Aequorivita,D55_vs_B55,OG0000634,bcp,1.96642031604837,2.33712832648339e-07,6.631317440815499,True,up,Proteostasis,bcp
+b,55 MPa Droplet vs 55 MPa Bulk,Aequorivita,D55_vs_B55,OG0000696,pitA,2.35083906120222,4.81036951692948e-08,7.317821561256201,True,up,ROS removal,pitA
+b,55 MPa Droplet vs 55 MPa Bulk,Halomonas,D55_vs_B55,OG0001025,acoR,1.95881147693373,1.48527689572793e-10,9.82819257457796,True,up,Flagellar / chemotaxis,acoR
+b,55 MPa Droplet vs 55 MPa Bulk,Halomonas,D55_vs_B55,OG0001872,tctC,6.6631781097565,5.721688811310649e-12,11.24247576610533,True,up,Membrane maintenance,tctC
+b,55 MPa Droplet vs 55 MPa Bulk,Halomonas,D55_vs_B55,OG0000565,yliI,3.07685369454053,1.15433871036606e-10,9.937666740175512,True,up,Osmoregulation,yliI
+b,55 MPa Droplet vs 55 MPa Bulk,Halomonas,D55_vs_B55,OG0001394,ahpF,4.47166725803513,2.77087835594239e-12,11.55738253971852,True,up,Proteostasis,ahpF
+b,55 MPa Droplet vs 55 MPa Bulk,Halomonas,D55_vs_B55,OG0000834,katG,4.14785228727149,1.78735067041609e-11,10.74779023244905,True,up,ROS removal,katG
+b,55 MPa Droplet vs 55 MPa Bulk,Psychrobacter,D55_vs_B55,OG0000007,aer,-1.24150407694409,1.58542302288515e-07,6.799854839444386,True,down,Flagellar / chemotaxis,aer
+b,55 MPa Droplet vs 55 MPa Bulk,Psychrobacter,D55_vs_B55,OG0001901,atoE,4.01989487631361,3.86272731291282e-11,10.41310594955057,True,up,Membrane maintenance,atoE
+b,55 MPa Droplet vs 55 MPa Bulk,Psychrobacter,D55_vs_B55,OG0000453,mmsA,5.60404328062983,9.182370768421081e-09,8.037045175147826,True,up,Osmoregulation,mmsA
+b,55 MPa Droplet vs 55 MPa Bulk,Psychrobacter,D55_vs_B55,OG0000450,grxC,2.26251384996034,9.69731476320187e-10,9.013348507483268,True,up,Proteostasis,grxC
+b,55 MPa Droplet vs 55 MPa Bulk,Psychrobacter,D55_vs_B55,OG0001320,petB,-1.39021573002272,4.747152177695421e-09,8.323566846041475,True,down,ROS removal,petB
+b,55 MPa Droplet vs 55 MPa Bulk,Sphingopyxis,D55_vs_B55,OG0001017,yegE,2.14221767348013,8.65244800011791e-13,12.06286100206905,True,up,Flagellar / chemotaxis,yegE
+b,55 MPa Droplet vs 55 MPa Bulk,Sphingopyxis,D55_vs_B55,OG0000335,pspC,2.12476979764316,1.96304499950325e-13,12.70706974481571,True,up,Membrane maintenance,pspC
+b,55 MPa Droplet vs 55 MPa Bulk,Sphingopyxis,D55_vs_B55,OG0000565,yliI,2.21522319065614,1.96304499950325e-13,12.70706974481571,True,up,Osmoregulation,yliI
+b,55 MPa Droplet vs 55 MPa Bulk,Sphingopyxis,D55_vs_B55,OG0000242,bepA,1.96904421397382,2.2821772146464e-13,12.64165063495952,True,up,Proteostasis,bepA
+b,55 MPa Droplet vs 55 MPa Bulk,Sphingopyxis,D55_vs_B55,OG0001388,cydA,-2.089910863656,1.96304499950325e-13,12.70706974481571,True,down,ROS removal,cydA
+a,55 MPa Droplet vs Droplet 0.1 MPa,Aequorivita,D55_vs_D0,OG0000335,pspC,-3.56419327026713,1.33805943822734e-07,6.873524594250706,True,down,Membrane maintenance,pspC
+a,55 MPa Droplet vs Droplet 0.1 MPa,Aequorivita,D55_vs_D0,OG0000543,dnaN,2.02285749057269,7.31041989227635e-08,7.136057677534417,True,up,Osmoregulation,dnaN
+a,55 MPa Droplet vs Droplet 0.1 MPa,Aequorivita,D55_vs_D0,OG0000227,dnaJ,-2.49021830778373,2.47718615023603e-07,6.606041356763904,True,down,Proteostasis,dnaJ
+a,55 MPa Droplet vs Droplet 0.1 MPa,Aequorivita,D55_vs_D0,OG0000834,katG,-3.59336250870869,1.36794238964425e-08,7.863932192372077,True,down,ROS removal,katG
+a,55 MPa Droplet vs Droplet 0.1 MPa,Halomonas,D55_vs_D0,OG0001285,fliC,-3.78674074722622,1.16863687330127e-11,10.93232041477517,True,down,Flagellar / chemotaxis,fliC
+a,55 MPa Droplet vs Droplet 0.1 MPa,Halomonas,D55_vs_D0,OG0000239,lpxC-fabZ,3.37417005970224,1.21630770430793e-12,11.9149565423511,True,up,Membrane maintenance,lpxC-fabZ
+a,55 MPa Droplet vs Droplet 0.1 MPa,Halomonas,D55_vs_D0,OG0000565,yliI,2.54477522804268,1.26199094116699e-10,9.898943762536662,True,up,Osmoregulation,yliI
+a,55 MPa Droplet vs Droplet 0.1 MPa,Halomonas,D55_vs_D0,OG0001862,lolA,2.95774024916266,1.50646546543414e-12,11.82204081974456,True,up,Proteostasis,lolA
+a,55 MPa Droplet vs Droplet 0.1 MPa,Halomonas,D55_vs_D0,OG0000834,katG,2.90919613602116,8.350600514175559e-11,10.0782822921074,True,up,ROS removal,katG
+a,55 MPa Droplet vs Droplet 0.1 MPa,Psychrobacter,D55_vs_D0,OG0001662,spoVB,1.01307975560047,7.09385461901462e-07,6.149117716175141,True,up,Flagellar / chemotaxis,spoVB
+a,55 MPa Droplet vs Droplet 0.1 MPa,Psychrobacter,D55_vs_D0,OG0000016,adh,-1.80394691858862,5.01608274115217e-10,9.29963530835568,True,down,Membrane maintenance,adh
+a,55 MPa Droplet vs Droplet 0.1 MPa,Psychrobacter,D55_vs_D0,OG0000898,sucC,2.81263250276022,5.99224321849079e-10,9.222410567420615,True,up,Osmoregulation,sucC
+a,55 MPa Droplet vs Droplet 0.1 MPa,Psychrobacter,D55_vs_D0,OG0000527,ftsI,1.73458055684016,5.99224321849079e-10,9.222410567420615,True,up,Proteostasis,ftsI
+a,55 MPa Droplet vs Droplet 0.1 MPa,Psychrobacter,D55_vs_D0,OG0002196,nuoJ,2.9994867667617,4.71820811481429e-10,9.326222906790385,True,up,ROS removal,nuoJ
+a,55 MPa Droplet vs Droplet 0.1 MPa,Sphingopyxis,D55_vs_D0,OG0000280,pilQ,-2.77606609181394,6.195145374204203e-16,15.20794849808954,True,down,Flagellar / chemotaxis,pilQ
+a,55 MPa Droplet vs Droplet 0.1 MPa,Sphingopyxis,D55_vs_D0,OG0001503,TC.FEV.OM,-4.0591526876473,1.1518626730479e-16,15.93859929512512,True,down,Membrane maintenance,TC.FEV.OM
+a,55 MPa Droplet vs Droplet 0.1 MPa,Sphingopyxis,D55_vs_D0,OG0000320,bkdA,-2.27989984156301,9.98944504214527e-14,13.00045863808319,True,down,Osmoregulation,bkdA
+a,55 MPa Droplet vs Droplet 0.1 MPa,Sphingopyxis,D55_vs_D0,OG0001394,ahpF,5.9370722280952,2.54842479775572e-16,15.59372817761445,True,up,Proteostasis,ahpF
+a,55 MPa Droplet vs Droplet 0.1 MPa,Sphingopyxis,D55_vs_D0,OG0001388,cydA,-2.46040724255733,8.60436181023792e-16,15.06528133597796,True,down,ROS removal,cydA
