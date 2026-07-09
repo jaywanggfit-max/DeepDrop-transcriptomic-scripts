@@ -5,8 +5,6 @@ output: html_document
 
 ## Source
 
-Extracted from `C:/Users/37962/Desktop/code.Rmd`.
-
 Related original sections: `DEG`, `UpSet`, and `Venn`.
 
 Note: the provided Rmd contains code for the DEG table, UpSet plot, and Venn plot.
